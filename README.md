@@ -5,5 +5,3 @@
 3. SP3 Preparing for the SAS Programming Certification
 4. SP4 Practicing for the SAS Programming Certification
 
-# SAS Professional Certificate in SAS Advanced Programmer
-
